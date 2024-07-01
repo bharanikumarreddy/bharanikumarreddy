@@ -41,17 +41,48 @@ I apologize for the oversight. I'll add the missing education details and leave 
 </ul>
 
 <h3 align="left">Work Experience:</h3>
-<!-- (Work experience section remains unchanged) -->
+<p><strong>Teaching Assistant</strong><br>
+<strong>New York University</strong>, New York, NY<br>
+01/2024 - 06/2024</p>
+<ul>
+<li>Assisted in teaching Information Security and Privacy course, guiding students and facilitating discussions on course materials.</li>
+<li>Graded assignments, provided feedback on student work, and contributed to the development of course materials and assignments.</li>
+</ul>
+
+<p><strong>Software Engineer (QA)</strong><br>
+<strong>Appviewx</strong>, Bengaluru, Karnataka<br>
+08/2022 - 07/2023</p>
+<ul>
+<li>Leveraged Python-based Robot framework to automate end-to-end scenarios via exposed APIs, enhancing feature validation efficiency by 30%.</li>
+<li>Devised extensive test data, aiding in the creation of effective test cases that isolated and amplified edge cases, verifying app robustness.</li>
+<li>Developed and deployed apps in QA environments, ensuring controlled testing settings and efficient bug detection and resolution processes.</li>
+</ul>
+
+<p><strong>Security Intern</strong><br>
+<strong>Appviewx</strong>, Coimbatore, Tamil Nadu<br>
+02/2022 - 08/2022</p>
+<ul>
+<li>Debugged automation script errors within the regression test suite, contributing to a 15% reduction in software defects.</li>
+<li>Actively tracked and managed defects, improving defect tracking processes and facilitating timely issue resolution.</li>
+</ul>
 
 <h3 align="left">Projects:</h3>
-<!-- (Projects section remains unchanged) -->
+<ul>
+  <li>Comprehensive Penetration Testing and Vulnerability Analysis Report for Near-Earth Broadcast Network (NBN Corp)</li>
+  <li>Security Assessment for OpenKruise</li>
+  <li>Cryptanalysis Project: Shift Cipher Decryption</li>
+</ul>
 
 <h3 align="left">Extracurricular Activities:</h3>
-<!-- (Extracurricular Activities section remains unchanged) -->
+<ul>
+  <li>Member of "Prakrithi" Environment Club and "Prerana" College NGO</li>
+  <li>Part-time teacher for College NGO</li>
+</ul>
 
 <h3 align="left">Leadership Experience:</h3>
-<!-- (Leadership Experience section remains unchanged) -->
+<ul>
+  <li>Organized events for "Prakrithi" club, engaging 100+ students during ECO WEEK 2020 to 2022 Editions</li>
+</ul>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharanikumarreddy&show_icons=true&locale=en&layout=compact" alt="bharanikumarreddy" /></p>
 
-Is this version more accurate and complete? Would you like me to make any further changes or additions?
