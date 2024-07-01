@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Bharani Kumar Reddy Bandla</h1>
 <h3 align="center">Cybersecurity Graduate Student | Security Researcher</h3>
 <p align="center">
-  🔒 A cybersecurity enthusiast based in New York, NY. Currently pursuing my Master's degree in Cybersecurity at New York University with a GPA of 3.7/4.0. I'm passionate about securing digital assets and ensuring data privacy. With a solid foundation in Information Security & Privacy, Network Security, and other relevant coursework, I'm well-equipped to tackle today's cybersecurity challenges
+    🔒 Passionate about securing digital landscapes and pushing the boundaries of cybersecurity
   <br>
   🎓 M.S. in Cybersecurity at New York University (GPA: 3.7/4.0)
   <br>
