@@ -22,7 +22,7 @@
   <img src="IMG_4467.HEIC" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
 </p>
 <p align="left">
-  <img src="https://github.com/bharanikumarreddy/bharanikumarreddy/blob/main/IMG_4467.HEIC" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
+  <img src="https://github.com/bharanikumarreddy/bharanikumarreddy/blob/main/IMG_4467.jpg" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
 </p>
 
 - 🌱 I'm currently learning **Cloud security**
