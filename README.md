@@ -17,15 +17,7 @@
   <a href="mailto:bb3722@nyu.edu">Email</a>
 </p>
 
-<h3 align="left">Profile Picture:</h3>
-<p align="center">
-  <img src="IMG_4467.HEIC" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
-</p>
-<p align="left">
-  <img src="https://github.com/bharanikumarreddy/bharanikumarreddy/blob/main/IMG_4467.jpg" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
-</p>
-
-- 🌱 I'm currently learning **Cloud security**
+- 🌱 I'm currently learning **Cloud Computing**
 
 - 📫 How to reach me **bb3722@nyu.edu**
 
