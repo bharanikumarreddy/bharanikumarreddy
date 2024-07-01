@@ -19,10 +19,10 @@
 
 <h3 align="left">Profile Picture:</h3>
 <p align="center">
-  <img src="https://github.com/bharanikumarreddy/bharanikumarreddy/blob/main/profile_picture.jpg" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
+  <img src="IMG_4467.HEIC" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
 </p>
 <p align="left">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
+  <img src="https://github.com/bharanikumarreddy/bharanikumarreddy/blob/main/IMG_4467.HEIC" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
 </p>
 
 - 🌱 I'm currently learning **Cloud security**
