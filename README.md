@@ -18,7 +18,9 @@
 </p>
 
 <h3 align="left">Profile Picture:</h3>
-<!-- Add your profile picture here -->
+<p align="center">
+  <img src="https://github.com/bharanikumarreddy/bharanikumarreddy/blob/main/profile_picture.jpg" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
+</p>
 <p align="left">
   <img src="YOUR_IMAGE_URL_HERE" alt="Bharani Kumar Reddy Bandla" width="200" height="200">
 </p>
