@@ -1,6 +1,6 @@
 I apologize for the oversight. I'll add the missing education details and leave a section for your picture. Here's the updated version:
 
-<h1 align="center">Hi 👋, I'm Bharani Kumar Reddy Bandla</h1>
+<h1 align="center"> Bharani Kumar Reddy </h1>
 <h3 align="center">A cybersecurity enthusiast based in New York, NY. Currently pursuing my Master's degree in Cybersecurity at New York University with a GPA of 3.7/4.0. I'm passionate about securing digital assets and ensuring data privacy. With a solid foundation in Information Security & Privacy, Network Security, and other relevant coursework, I'm well-equipped to tackle today's cybersecurity challenges.</h3>
 
 <h3 align="left">Profile Picture:</h3>
