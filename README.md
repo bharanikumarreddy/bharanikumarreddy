@@ -17,7 +17,7 @@
   <a href="mailto:bb3722@nyu.edu">Email</a>
 </p>
 
-- 🌱 I'm currently learning **Cloud Computing**
+- 🌱 I'm currently Preparing for  **comptia security+ sy0-701 certification **
 
 - 📫 How to reach me **bb3722@nyu.edu**
 
