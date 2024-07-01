@@ -1,7 +1,21 @@
-I apologize for the oversight. I'll add the missing education details and leave a section for your picture. Here's the updated version:
-
-<h1 align="center"> Bharani Kumar Reddy </h1>
-<h3 align="center">A cybersecurity enthusiast based in New York, NY. Currently pursuing my Master's degree in Cybersecurity at New York University with a GPA of 3.7/4.0. I'm passionate about securing digital assets and ensuring data privacy. With a solid foundation in Information Security & Privacy, Network Security, and other relevant coursework, I'm well-equipped to tackle today's cybersecurity challenges.</h3>
+<h1 align="center">👨‍💻 Bharani Kumar Reddy Bandla</h1>
+<h3 align="center">Cybersecurity Graduate Student | Security Researcher</h3>
+<p align="center">
+  🔒 A cybersecurity enthusiast based in New York, NY. Currently pursuing my Master's degree in Cybersecurity at New York University with a GPA of 3.7/4.0. I'm passionate about securing digital assets and ensuring data privacy. With a solid foundation in Information Security & Privacy, Network Security, and other relevant coursework, I'm well-equipped to tackle today's cybersecurity challenges
+  <br>
+  🎓 M.S. in Cybersecurity at New York University (GPA: 3.7/4.0)
+  <br>
+  🛠️ Specializing in penetration testing, vulnerability analysis, and cloud security
+  <br>
+  🌱 Currently diving deep into advanced cloud security paradigms
+  <br>
+  🔍 Always on the lookout for challenging security problems to solve
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/bharani-kumar-reddy-bandla-3b1b851b9/">LinkedIn</a> •
+  <a href="https://github.com/bharanikumarreddy">GitHub</a> •
+  <a href="mailto:bb3722@nyu.edu">Email</a>
+</p>
 
 <h3 align="left">Profile Picture:</h3>
 <!-- Add your profile picture here -->
