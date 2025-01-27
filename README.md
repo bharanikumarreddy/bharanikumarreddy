@@ -1,15 +1,19 @@
+Here is the updated version of your profile to align with the content from your new resume:
+
+---
+
 <h1 align="center">👨‍💻 Bharani Kumar Reddy Bandla</h1>
 <h3 align="center">Cybersecurity Graduate Student | Security Researcher</h3>
 <p align="center">
-    🔒 Passionate about securing digital landscapes and pushing the boundaries of cybersecurity
-  <br>
-  🎓 M.S. in Cybersecurity at New York University (GPA: 3.7/4.0)
-  <br>
-  🛠️ Specializing in penetration testing, vulnerability analysis, and cloud security
-  <br>
-  🌱 Currently diving deep into advanced cloud security paradigms
-  <br>
-  🔍 Always on the lookout for challenging security problems to solve
+    🔒 Passionate about securing digital landscapes and pushing the boundaries of cybersecurity  
+    <br>
+    🎓 M.S. in Cybersecurity at New York University (GPA: 3.9/4.0)  
+    <br>
+    🛠️ Specializing in penetration testing, vulnerability analysis, and cloud security  
+    <br>
+    🌱 Exploring advanced cloud security paradigms and offensive security  
+    <br>
+    🔍 Dedicated to solving real-world security challenges through research and innovation  
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/bharani-kumar-reddy-bandla-3b1b851b9/">LinkedIn</a> •
@@ -17,80 +21,91 @@
   <a href="mailto:bb3722@nyu.edu">Email</a>
 </p>
 
-- 🌱 I'm currently Preparing for  **comptia security+ sy0-701 certification **
+- 🌱 Currently preparing for **CompTIA Security+ (SY0-701)**  
+- 📫 Reach me at **bb3722@nyu.edu**
 
-- 📫 How to reach me **bb3722@nyu.edu**
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bharani-kumar-reddy-bandla-3b1b851b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharani-kumar-reddy-bandla-3b1b851b9" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharani-kumar-reddy-bandla-3b1b851b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharani-kumar-reddy-bandla" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/bharanikumarred1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharanikumarred1" height="30" width="40" /></a>
 <a href="https://leetcode.com/bharanikumarreddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharanikumarreddy" height="30" width="40" /></a>
 </p>
 
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-<!-- (Previous languages and tools section remains unchanged) -->
+Python, Java, C++, Bash, PowerShell, HTML, CSS  
+Security Tools: Wireshark, Nmap, Metasploit, Burp Suite, Splunk, OpenSSL, Nikto, Ophcrack, Hashcat, Ghidra, IDA  
+Cloud & DevOps: AWS (EC2, Lambda, S3, DynamoDB, Guard Duty), Docker, Kubernetes, Jenkins, GCP  
+Frameworks & Automation: Robot Framework, Selenium  
+Networking: TCP/IP, HTTP/HTTPS, PKI, Secure Boot, Authentication Protocols  
+Operating Systems: Linux (Ubuntu, Kali), Windows, macOS  
 </p>
+
+---
 
 <h3 align="left">Education:</h3>
 <p><strong>New York University</strong>, New York, NY<br>
-<strong>Master of Science in Cyber Security</strong>, GPA: 3.7/4.0<br>
-08/2023 - 05/2025</p>
+<strong>Master of Science in Cybersecurity</strong>, GPA: 3.9/4.0<br>
+09/2023 - 05/2025</p>
 <ul>
-  <li>Coursework: Applied Cryptography, Penetration Testing & Vulnerability Analysis, Network Security, Information Security & Privacy, Cloud Computing, Computer Networks, Operating Systems</li>
+  <li>Relevant Coursework: Applied Cryptography, Penetration Testing & Vulnerability Analysis, Offensive Security, Cloud Security, Information Security & Privacy, Network Security, Application Security, Blockchain</li>
 </ul>
 
-<p><strong>Amrita University</strong>, Bengaluru, karnataka <br>
+<p><strong>Amrita University</strong>, Bengaluru, Karnataka<br>
 <strong>Bachelor of Technology in Electronics and Communication Engineering</strong><br>
 08/2018 - 05/2022</p>
 <ul>
-  <li>Published research on Re-configurable Clock Rate-Based Synchronous Binary Counter, IEEE, <a href="https://ieeexplore.ieee.org/document/9972393" target="_blank">Link</a></li>
+  <li>Published research on <a href="https://ieeexplore.ieee.org/document/9972393" target="_blank">Re-configurable Clock Rate-Based Synchronous Binary Counter (IEEE)</a></li>
 </ul>
+
+---
 
 <h3 align="left">Work Experience:</h3>
 <p><strong>Teaching Assistant</strong><br>
 <strong>New York University</strong>, New York, NY<br>
-01/2024 - 06/2024</p>
+01/2024 - Present</p>
 <ul>
-<li>Assisted in teaching Information Security and Privacy course, guiding students and facilitating discussions on course materials.</li>
-<li>Graded assignments, provided feedback on student work, and contributed to the development of course materials and assignments.</li>
+<li>Guided students in courses like Information Security & Privacy and Cloud Security, covering CTFs, secure coding, and AWS environments.</li>
+<li>Mentored in practical labs using tools like Burp Suite, Wireshark, and Metasploit for penetration testing and incident response.</li>
 </ul>
 
-<p><strong>Software Engineer (QA)</strong><br>
+<p><strong>DevSecOps Engineer</strong><br>
 <strong>Appviewx</strong>, Bengaluru, Karnataka<br>
-08/2022 - 07/2023</p>
+01/2022 - 07/2023</p>
 <ul>
-<li>Leveraged Python-based Robot framework to automate end-to-end scenarios via exposed APIs, enhancing feature validation efficiency by 30%.</li>
-<li>Devised extensive test data, aiding in the creation of effective test cases that isolated and amplified edge cases, verifying app robustness.</li>
-<li>Developed and deployed apps in QA environments, ensuring controlled testing settings and efficient bug detection and resolution processes.</li>
+<li>Automated API and UI testing using Robot Framework and Selenium, reducing manual effort by 60%.</li>
+<li>Streamlined deployment workflows with Jenkins, improving testing and deployment cycles significantly.</li>
+<li>Performed security testing and vulnerability analysis for PKI workflows and ADC platforms.</li>
 </ul>
 
-<p><strong>Security Intern</strong><br>
-<strong>Appviewx</strong>, Coimbatore, Tamil Nadu<br>
-02/2022 - 08/2022</p>
-<ul>
-<li>Debugged automation script errors within the regression test suite, contributing to a 15% reduction in software defects.</li>
-<li>Actively tracked and managed defects, improving defect tracking processes and facilitating timely issue resolution.</li>
-</ul>
+---
 
 <h3 align="left">Projects:</h3>
 <ul>
-  <li>Comprehensive Penetration Testing and Vulnerability Analysis Report for Near-Earth Broadcast Network (NBN Corp)</li>
-  <li>Security Assessment for OpenKruise</li>
-  <li>Cryptanalysis Project: Shift Cipher Decryption</li>
+  <li><strong>PII & Anonymization with AWS Macie & Glue:</strong> Automated data anonymization in S3 using PySpark scripts, ensuring privacy compliance.</li>
+  <li><strong>Security Assessment for OpenKruise:</strong> Conducted vulnerability analysis for CNCF project components and provided remediation strategies.</li>
+  <li><strong>Cryptanalysis Project:</strong> Decrypted shift and substitution ciphers using frequency analysis with a 95%+ success rate.</li>
+  <li><strong>Penetration Testing for NBN Corp:</strong> Discovered critical vulnerabilities, exploited SUID misconfigurations, and provided remediation plans.</li>
+  <li><strong>Crypto Bot:</strong> Built an AI-powered tool recommending optimal cryptographic schemes.</li>
 </ul>
+
+---
 
 <h3 align="left">Extracurricular Activities:</h3>
 <ul>
-  <li>Member of "Prakrithi" Environment Club and "Prerana" College NGO</li>
-  <li>Part-time teacher for College NGO</li>
+  <li>Member of NYU's Osiris Cybersecurity Club; participated in Hack The Box University CTF challenges.</li>
+  <li>Volunteered with Amrita University NGO, teaching STEM to orphans and organizing eco-friendly initiatives.</li>
 </ul>
+
+---
 
 <h3 align="left">Leadership Experience:</h3>
 <ul>
-  <li>Organized events for "Prakrithi" club, engaging 100+ students during ECO WEEK 2020 to 2022 Editions</li>
+  <li>Organized "Prakrithi" ECO WEEK events, engaging 100+ students in environmental sustainability campaigns.</li>
 </ul>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharanikumarreddy&show_icons=true&locale=en&layout=compact" alt="bharanikumarreddy" /></p>
-
