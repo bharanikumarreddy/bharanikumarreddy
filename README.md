@@ -1,111 +1,58 @@
-Here is the updated version of your profile to align with the content from your new resume:
+<h1 align="center">🔐 Bharani Kumar Reddy Bandla</h1> <h3 align="center">Cybersecurity Graduate Student @ NYU | DevSecOps & Offensive Security Enthusiast</h3> <p align="center"> <a href="mailto:bb3722@nyu.edu">📧 bb3722@nyu.edu</a> • <a href="https://github.com/bharanikumarreddy">💻 GitHub</a> • <a href="https://www.linkedin.com/in/bharani-kumar-reddy-bandla-3b1b851b9/">🔗 LinkedIn</a> </p>
+🧠 About Me
+🎓 M.S. in Computer Science (Cybersecurity) — New York University, GPA: 3.9/4.0
+💼 Former DevSecOps Engineer at Appviewx | Current Teaching Assistant @ NYU (Cloud & Web Security)
+🔍 Passionate about cloud security automation, penetration testing, and secure system design
+📜 Certified in: ISC2 Cybersecurity (CC), AWS Cloud Practitioner | Currently pursuing CompTIA Security+
+🧰 Technical Skills
+Languages: Python, Java, Go, C++, Bash, PowerShell
+Security Tools: Burp Suite, Metasploit, Wireshark, OpenSSL, Nmap, SQLMap, Nikto, Hydra
+Cloud & DevOps: AWS (EC2, Lambda, S3, Macie, Glue, CloudWatch, GuardDuty, CloudTrail), GCP, Docker, Kubernetes
+Automation & CI/CD: Selenium, Robot Framework, Jenkins, GitLab CI/CD, REST Assured, Postman
+Networking: TCP/IP, HTTP/HTTPS, SSL/TLS, Encryption/Decryption, Firewall
+Project Tools: JIRA, TestNG
 
----
+💼 Work Experience
+Teaching Assistant — New York University
+🗽 Jan 2024 – May 2025 | New York, NY
 
-<h1 align="center">👨‍💻 Bharani Kumar Reddy Bandla</h1>
-<h3 align="center">Cybersecurity Graduate Student | Security Researcher</h3>
-<p align="center">
-    🔒 Passionate about securing digital landscapes and pushing the boundaries of cybersecurity  
-    <br>
-    🎓 M.S. in Cybersecurity at New York University (GPA: 3.9/4.0)  
-    <br>
-    🛠️ Specializing in penetration testing, vulnerability analysis, and cloud security  
-    <br>
-    🌱 Exploring advanced cloud security paradigms and offensive security  
-    <br>
-    🔍 Dedicated to solving real-world security challenges through research and innovation  
-</p>
-<p align="center">
-  <a href="https://linkedin.com/in/bharani-kumar-reddy-bandla-3b1b851b9/">LinkedIn</a> •
-  <a href="https://github.com/bharanikumarreddy">GitHub</a> •
-  <a href="mailto:bb3722@nyu.edu">Email</a>
-</p>
+Built and automated security labs for 200+ students in Web & Cloud Security
+Delivered AWS workshops on encryption, secure storage, and cloud automation
+Developed a grading system to verify secure coding practices in RepyV2 environments
+DevSecOps Engineer — Appviewx
+💻 Jan 2022 – Aug 2023 | Bengaluru, India
 
-- 🌱 Currently preparing for **CompTIA Security+ (SY0-701)**  
-- 📫 Reach me at **bb3722@nyu.edu**
+Automated API/UI security testing for ADC & PKI platforms using Robot Framework and Selenium
+Integrated security into Jenkins pipelines to catch pre-deployment misconfigurations
+Enhanced SSL/TLS API security with automated cert issuance, renewal & revocation validation
+Analyzed F5 Big-IP, Citrix ADC & PKI systems for vulnerabilities and misconfigs
+📁 Projects
+🔒 PII Detection & Anonymization with AWS Macie & Glue
 
----
+Automated privacy compliance in S3 using Macie, Glue, and PySpark
+Enabled auditing with CloudTrail and real-time monitoring via CloudWatch
+🛡️ Security Assessment for OpenKruise (CNCF)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bharani-kumar-reddy-bandla-3b1b851b9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharani-kumar-reddy-bandla" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/bharanikumarred1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bharanikumarred1" height="30" width="40" /></a>
-<a href="https://leetcode.com/bharanikumarreddy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bharanikumarreddy" height="30" width="40" /></a>
-</p>
+Collaborated with maintainers to analyze Kubernetes admission controllers
+Performed threat modeling, secure code review & delivered actionable security improvements
+🧮 Cryptanalysis & Cipher Decryption
 
----
+Developed Python scripts for shift/substitution cipher cracking using frequency analysis
+Achieved 95.7% success on shift ciphers & built dynamic key detection algorithms
+💥 Penetration Testing for NBN Corp
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-Python, Java, C++, Bash, PowerShell, HTML, CSS  
-Security Tools: Wireshark, Nmap, Metasploit, Burp Suite, Splunk, OpenSSL, Nikto, Ophcrack, Hashcat, Ghidra, IDA  
-Cloud & DevOps: AWS (EC2, Lambda, S3, DynamoDB, Guard Duty), Docker, Kubernetes, Jenkins, GCP  
-Frameworks & Automation: Robot Framework, Selenium  
-Networking: TCP/IP, HTTP/HTTPS, PKI, Secure Boot, Authentication Protocols  
-Operating Systems: Linux (Ubuntu, Kali), Windows, macOS  
-</p>
+Simulated attacks using Nmap, Burp, SQLMap, Hydra, Nikto
+Exploited SQLi, LFI, CVE-2021-4034, achieved root access, and proposed mitigations
+🤖 Crypto Bot — AI-Assisted Cipher Selection
 
----
+Built a chatbot using Google Gemini API to recommend optimal block ciphers (AES, Blowfish, SIMON)
+Designed decision-tree logic to balance performance, key size & security standards
+🏆 Certifications
+CompTIA Security+ (In Progress)
+ISC2 Cybersecurity (CC)
+AWS Certified Cloud Practitioner
+📫 Let's Connect
+I'm actively exploring opportunities in security engineering, DevSecOps, cloud security, and vulnerability research.
 
-<h3 align="left">Education:</h3>
-<p><strong>New York University</strong>, New York, NY<br>
-<strong>Master of Science in Cybersecurity</strong>, GPA: 3.9/4.0<br>
-09/2023 - 05/2025</p>
-<ul>
-  <li>Relevant Coursework: Applied Cryptography, Penetration Testing & Vulnerability Analysis, Offensive Security, Cloud Security, Information Security & Privacy, Network Security, Application Security, Blockchain</li>
-</ul>
+Feel free to reach out or check out my repos and research!
 
-<p><strong>Amrita University</strong>, Bengaluru, Karnataka<br>
-<strong>Bachelor of Technology in Electronics and Communication Engineering</strong><br>
-08/2018 - 05/2022</p>
-<ul>
-  <li>Published research on <a href="https://ieeexplore.ieee.org/document/9972393" target="_blank">Re-configurable Clock Rate-Based Synchronous Binary Counter (IEEE)</a></li>
-</ul>
-
----
-
-<h3 align="left">Work Experience:</h3>
-<p><strong>Teaching Assistant</strong><br>
-<strong>New York University</strong>, New York, NY<br>
-01/2024 - Present</p>
-<ul>
-<li>Guided students in courses like Information Security & Privacy and Cloud Security, covering CTFs, secure coding, and AWS environments.</li>
-<li>Mentored in practical labs using tools like Burp Suite, Wireshark, and Metasploit for penetration testing and incident response.</li>
-</ul>
-
-<p><strong>DevSecOps Engineer</strong><br>
-<strong>Appviewx</strong>, Bengaluru, Karnataka<br>
-01/2022 - 07/2023</p>
-<ul>
-<li>Automated API and UI testing using Robot Framework and Selenium, reducing manual effort by 60%.</li>
-<li>Streamlined deployment workflows with Jenkins, improving testing and deployment cycles significantly.</li>
-<li>Performed security testing and vulnerability analysis for PKI workflows and ADC platforms.</li>
-</ul>
-
----
-
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><strong>PII & Anonymization with AWS Macie & Glue:</strong> Automated data anonymization in S3 using PySpark scripts, ensuring privacy compliance.</li>
-  <li><strong>Security Assessment for OpenKruise:</strong> Conducted vulnerability analysis for CNCF project components and provided remediation strategies.</li>
-  <li><strong>Cryptanalysis Project:</strong> Decrypted shift and substitution ciphers using frequency analysis with a 95%+ success rate.</li>
-  <li><strong>Penetration Testing for NBN Corp:</strong> Discovered critical vulnerabilities, exploited SUID misconfigurations, and provided remediation plans.</li>
-  <li><strong>Crypto Bot:</strong> Built an AI-powered tool recommending optimal cryptographic schemes.</li>
-</ul>
-
----
-
-<h3 align="left">Extracurricular Activities:</h3>
-<ul>
-  <li>Member of NYU's Osiris Cybersecurity Club; participated in Hack The Box University CTF challenges.</li>
-  <li>Volunteered with Amrita University NGO, teaching STEM to orphans and organizing eco-friendly initiatives.</li>
-</ul>
-
----
-
-<h3 align="left">Leadership Experience:</h3>
-<ul>
-  <li>Organized "Prakrithi" ECO WEEK events, engaging 100+ students in environmental sustainability campaigns.</li>
-</ul>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharanikumarreddy&show_icons=true&locale=en&layout=compact" alt="bharanikumarreddy" /></p>
